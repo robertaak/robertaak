@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Roberta!
+
+<ul>
+<li>I'm a PHP developer from Riga </li><br>
+<li>I'm currently working on my first news page 🌱</li><br>
+<li>My best friends are: PHP, HTML, CSS </li><br>
+<li>Clean code is the ultimate goal!</li> 
+
+</ul>
 
 <!--
 **robertaak/robertaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
