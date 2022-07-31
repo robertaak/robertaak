@@ -3,7 +3,6 @@
 <ul>
 <li>I'm a software developer from Riga </li><br>
 <li>I'm currently working on my first news page 🌱</li><br>
-<li>My best friends are: PHP, HTML, CSS </li><br>
 <li>Clean code is the ultimate goal!</li> 
 
 </ul>
