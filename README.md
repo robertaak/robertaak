@@ -1,8 +1,8 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello! 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello! 
 
 <ul>
 <li>I'm a software developer from Riga </li><br>
-<li>I'm currently working on my first news page 🌱</li><br>
+<li>I'm currently working on multiple Laravel projects 🌱</li><br>
 <li>Clean code is the ultimate goal!</li> 
 
 </ul>
