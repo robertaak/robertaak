@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello! 
 
 
-Iam a Software Developer from Riga, Latvia. </br>
+I am a Software Developer from Riga, Latvia. </br>
 In my projects I am implementing MVC patterns as well as SOLID principles. </br>
 I'm currently working on Crypto news site, for which I'm using Laravel and MySQL. </br>
 
