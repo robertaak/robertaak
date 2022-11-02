@@ -2,8 +2,7 @@
 
 
 I am a Software Developer from Riga, Latvia. </br>
-In my projects I am implementing MVC patterns as well as SOLID principles. </br>
-I'm currently working on Bicycle Reservations App in Laravel </br>
+I'm currently learning Ruby on Rails </br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="70" height="70">
 
